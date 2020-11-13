@@ -1,6 +1,26 @@
 # leetcode
 leetcode算法练习
 
+* [621. 任务调度器](https://leetcode-cn.com/problems/task-scheduler/): 贪心算法、队列
+
+# 单调栈
+* [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+
+- [x] [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
+- [x] [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
+
+# 拓扑排序
+* [207. 课程表](https://leetcode-cn.com/problems/course-schedule)
+* [210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/)
+
+# 前缀和: 前缀和之间的差
+* [560. 和为k的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/submissions/)
+
+# 动态规划 回文串 需要注意dp的计算顺序, 被依赖的dp状态需要先通过已知的状态计算出来
+* [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
+* [647. 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)
+* [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+
 ## 回溯算法:
 * [46. 全排列](https://leetcode-cn.com/problems/permutations/)
 * [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/) 剪枝排除重复项
@@ -16,7 +36,7 @@ leetcode算法练习
 * [93. 复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)
 * [784. 字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/)
 
-* [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)
+- [x] [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)
 * [60. 第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)
 
 ## 路径和
