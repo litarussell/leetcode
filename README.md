@@ -1,7 +1,9 @@
 # leetcode
 leetcode算法练习
 
+# 贪心算法
 * [621. 任务调度器](https://leetcode-cn.com/problems/task-scheduler/): 贪心算法、队列
+* [406. 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)
 
 # 单调栈
 * [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
