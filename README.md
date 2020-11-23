@@ -1,9 +1,17 @@
 # leetcode
 leetcode算法练习
 
+# 最长上升子序列 重叠 不重叠 dp
+* [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+* [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)
+* [452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
 # 贪心算法
 * [621. 任务调度器](https://leetcode-cn.com/problems/task-scheduler/): 贪心算法、队列
 * [406. 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)
+
+* [x] [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)
+* [x] [452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 
 # 单调栈
 * [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
